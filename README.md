@@ -17,8 +17,8 @@ A steady-state debutanizer column was modeled in DWSIM using a ternary hydrocarb
 ## Repository Structure
 1. `README.md` - project description and setup instructions
 2. `main.py` - main Python script
-3. `requirements.txt`   required Python packages
-4. 'Model_Data.xlsx" - project training data
+3. `requirements.txt` - required Python packages
+4. `Model_Data.xlsx` - project training data
 
 ## Data Preparation
 1. Download data, which is uploaded to both the Final Project assignment in Canvas and this repository
