@@ -1,0 +1,15 @@
+# Install the following packages:
+
+1. pandas
+2. numpy
+3. scikit-learn
+4. torch
+5. matplotlib
+6. openpyxl
+
+## Example of Installation
+
+Open Command Prompt or PyCharm Terminal and run:
+pip install pandas numpy scikit-learn torch matplotlib openpyxl
+or
+python -m pip install pandas numpy scikit-learn torch matplotlib openpyxl
