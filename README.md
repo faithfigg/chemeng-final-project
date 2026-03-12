@@ -22,7 +22,7 @@ A steady-state debutanizer column was modeled in DWSIM using a ternary hydrocarb
 
 ## Data Preparation
 1. Download data file from either the Final Project assignment in Canvas or this repository.
-2. Download Model_Data.xlsx and main.py to the same folder so the python script can run without modifying the file path.
+2. Download Model_Data.xlsx and main.py to the same folder, so the python script can run without modifying the file path. Also, ensure file name of excel data is set to 'Model_Data.xlsx', as this is what is written in python script.
 
 ## How to Run
 This project uses Python and requires the packages listed in `requirements.txt`.
