@@ -1,5 +1,5 @@
 # chemeng-final-project
-Static Soft Sensor and Decision Support Models: Product Purity Deviation Detection and Reflux Ration Adjustment
+Static Soft Sensor and Decision Support Models: Product Purity Deviation Detection and Reflux Ratio Adjustment
 
 
 ## Project Overview
